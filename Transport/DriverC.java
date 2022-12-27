@@ -1,6 +1,6 @@
 package Transport;
 
-import com.javacource.Transport.Truck;
+import Transport.Truck;
 
     public abstract class DriverC<T extends Bus> extends Driver<Bus> {
 

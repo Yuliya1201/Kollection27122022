@@ -1,6 +1,8 @@
 package com.javacource.Product;
 
 
+import java.util.Objects;
+
 public class Recept {
     private String nameProduct;
     private ProductList productList;
